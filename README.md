@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @janlimpens
-- 👀 I’m interested in ... programming, duh!
-- 🌱 I’m currently learning async in Rust
-- 💞️ I’m looking to collaborate on whatever I can contribute to.
-- 📫 How to reach me: I have a website at jan.limpens.com and my email pretty guessable.
+- 🌱 I’m currently working as a backend Perl developer.
+- 💞️ I’m always open to collaboration.
+- 📫 You can reach me through my website [jan.limpens.com](https://jan.limpens.com), although it mainly focuses on other topics. Alternatively, my email address is quite guessable from its format.
 
 <!---
 janlimpens/janlimpens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
